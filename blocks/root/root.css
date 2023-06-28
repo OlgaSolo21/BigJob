@@ -1,0 +1,11 @@
+.root {
+    margin: 0 auto;
+    font-family: 'Clear Sans', 'Inter', 'Arial', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    max-width: 1280px;
+    min-width: 320px;
+    background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
+    color: #000000;
+}

@@ -1,0 +1,9 @@
+.footer__logo {
+    background-image: url("../../../images/logo.jpg");
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    display: block;
+}
